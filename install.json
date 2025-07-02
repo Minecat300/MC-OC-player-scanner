@@ -1,0 +1,10 @@
+{
+    "packageName": "player-scanner",
+    "description": "a program that scans for players and sends it through a link card",
+    "autoUpdate": true,
+    "version": "1.0",
+    "installPath": "/home/",
+    "fileInstalls": [
+        {"name": "scanner.lua", "type": "file"}
+    ]
+}
