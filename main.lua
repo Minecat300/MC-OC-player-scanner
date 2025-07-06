@@ -31,7 +31,7 @@ local POIMaxDist = 200
 
 local logDrive = "/mnt/b7f/"
 local playerLogFolder = logDrive .. "playerLogs/"
-local POILogFolder = logDrive .. "POILogFolder/"
+local POILogFolder = logDrive .. "POILogs/"
 
 local function mergeTables(table1, table2)
     table.move(table2, 1, #table2, #table1 + 1, table1)
