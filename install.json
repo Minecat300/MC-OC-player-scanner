@@ -1,10 +1,10 @@
 {
-    "packageName": "player-scanner",
-    "description": "a program that scans for players and sends it through a link card",
-    "autoUpdate": true,
+    "packageName": "PS-main",
+    "description": "A program that receives player data and displays it",
+    "autoUpdate": false,
     "version": "1.0",
-    "installPath": "/home/",
+    "installPath": "/player-scanner/",
     "fileInstalls": [
-        {"name": "scanner.lua", "type": "file"}
+        {"name": "main.lua", "type": "file"}
     ]
 }
