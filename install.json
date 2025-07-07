@@ -3,6 +3,8 @@
     "description": "A program that receives player data and displays it",
     "autoUpdate": false,
     "version": "1.0.1",
+    "startOnBoot": {"path": "/player-scanner/main.lua"},
+    "programPath": "/player-scanner/main.lua",
     "installPath": "/player-scanner/",
     "fileInstalls": [
         {"name": "main.lua", "type": "file"}
