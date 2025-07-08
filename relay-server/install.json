@@ -2,7 +2,9 @@
     "packageName": "PS-relay",
     "description": "A program that relays messages from one server to the main",
     "autoUpdate": false,
-    "version": "1.0",
+    "version": "1.0.1",
+    "runOnBoot": {"path": "/player-scanner/relay.lua"},
+    "programPath": "/player-scanner/relay.lua",
     "installPath": "/player-scanner/",
     "fileInstalls": [
         {"name": "relay.lua", "type": "file"}
