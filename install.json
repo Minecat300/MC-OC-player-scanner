@@ -2,8 +2,8 @@
     "packageName": "PS-main",
     "description": "A program that receives player data and displays it",
     "autoUpdate": false,
-    "version": "1.0.1",
-    "startOnBoot": {"path": "/player-scanner/main.lua"},
+    "version": "1.0.2",
+    "runOnBoot": {"path": "/player-scanner/main.lua"},
     "programPath": "/player-scanner/main.lua",
     "installPath": "/player-scanner/",
     "fileInstalls": [
