@@ -2,7 +2,9 @@
     "packageName": "PS-scanner",
     "description": "A program that scans for players and sends it through a link card",
     "autoUpdate": false,
-    "version": "1.0",
+    "version": "1.0.1",
+    "runOnBoot": {"path": "/player-scanner/scanner.lua"},
+    "programPath": "/player-scanner/scanner.lua",
     "installPath": "/player-scanner/",
     "fileInstalls": [
         {"name": "scanner.lua", "type": "file"}
